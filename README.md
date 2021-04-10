@@ -8,3 +8,5 @@ Convert text strings of layout shown on picture below:
 to .csv table rows with layout shown on the next picture:
 
 ![picture](example.png)
+
+Used instruments - Python with default packages + Pandas
