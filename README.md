@@ -1,12 +1,10 @@
-# forest_inventory
-Special instrument for converting intentory cards in .txt format into .csv table
+# Лесная таксация
+Инструмент для преобразования карточек таксации в .txt формате в таблицу формата .csv
 
-Convert text strings of layout shown on picture below:
-
+Конвертируют текстовые строки с разметкой как на рисунке ниже (скриншот одного из выделов из файла lisino_full.txt в репозитории)
 ![picture](area.png)
 
-to .csv table rows with layout shown on the next picture:
-
+в строки .csv таблицы с соотвествующими полями как на изображении ниже (скриншот строк из того же выдела в таблице final_table.csv в репозитории).
 ![picture](example.png)
 
-Used instruments - Python with default packages + Pandas
+Используется Python со стандартными пакетами + пакет для работы с табличными данными Pandas.
